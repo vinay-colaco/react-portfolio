@@ -1,5 +1,13 @@
 [
   {
+    "title": "Python",
+    "imageSrc": "skills/python.jpeg"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.jpeg"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -16,15 +24,7 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
-  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
   }
 ]
